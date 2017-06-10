@@ -1,0 +1,1 @@
+This is awesome app, to search for a cute ninja! :)
